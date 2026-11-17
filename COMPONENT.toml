@@ -3,7 +3,7 @@ name = "SigmaOS-arch-rebuild-order"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-rebuild-order component"
+description = "SigmaOS arch-rebuild-order component (Arch Linux inspired)"
 upstream = []
 
 [contract]

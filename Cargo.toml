@@ -1,8 +1,15 @@
 [package]
-name = "sigmaos-arch-rebuild-order"
+name = "SigmaOS-arch-rebuild-order"
 version = "0.1.0"
 edition = "2021"
-license = "MIT"
-description = "Dependency rebuild-order computation — SigmaOS component inspired by Arch Linux infrastructure."
+license = "Apache-2.0"
+description = "SigmaOS arch_rebuild_order component"
+
+[lib]
+name = "arch_rebuild_order"
+path = "src/lib.rs"
 
 [dependencies]
+thiserror = "1"
+
+[dev-dependencies]

@@ -1,4 +1,4 @@
-use arch_rebuild_order::Component;
+use sigmaos_rebuild_order::Component;
 
 #[test]
 fn test_component_lifecycle_aaa() {

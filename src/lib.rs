@@ -1,4 +1,4 @@
-//! SigmaOS arch_rebuild_order component
+//! SigmaOS rebuild_order component
 #![forbid(unsafe_code)]
 #![warn(missing_docs)]
 

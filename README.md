@@ -1,6 +1,6 @@
-# SigmaOS-arch-rebuild-order
+# SigmaOS-rebuild-order
 
-SigmaOS arch-rebuild-order component (Arch Linux inspired)
+SigmaOS rebuild-order component (Arch Linux inspired)
 
 - **Category:** DevOps
 - **Engine:** build_ci

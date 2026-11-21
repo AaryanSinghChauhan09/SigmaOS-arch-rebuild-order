@@ -1,12 +1,12 @@
 [package]
-name = "SigmaOS-arch-rebuild-order"
+name = "sigmaos-rebuild-order"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-description = "SigmaOS arch_rebuild_order component"
+description = "SigmaOS sigmaos_rebuild_order component"
 
 [lib]
-name = "arch_rebuild_order"
+name = "sigmaos_rebuild_order"
 path = "src/lib.rs"
 
 [dependencies]
